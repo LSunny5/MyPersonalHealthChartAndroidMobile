@@ -1,4 +1,4 @@
-# MyPersonalHealthChartAndroidMobile
+# My Personal Health Chart Android Mobile
 Webpage with the My Personal Health Chart Android Mobile Application
 
 ## Live App Link:
